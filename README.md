@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Currently working on navigation data processing and time series forecasting as part of my internship at <a href="https://sysnav.org" target="blank">Sysnav</a>.
-- 🌱 Learning everything about GIS and Time series.
-- 👯 I’m actively looking for interesting open source GIS / Time Series projects to work on. Glad to have contributed to <a href="https://github.com/alan-turing-institute/sktime">sktime</a>.
-- 🤔 Also looking for my next internship starting in February.
+- 🔭 Currently working on navigation data processing, temporal and spatio-temporal forecasting as part of my internship at <a href="https://sysnav.org" target="blank">Sysnav</a>.
+- 🌱 Learning everything I can learn about GIS and Time series.
+- 👯 I’m actively looking for interesting open source GIS / Time Series to contribute to. Glad to have contributed to <a href="https://github.com/alan-turing-institute/sktime">sktime</a> and <a href="https://github.com/wdm0006/pygeohash">pygeohash</a>.
+- 🤔 Most importantly, I'm looking for my next internship starting in February.
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=IlyasMoutawwakil&count_private=true&show_icons=true&theme=dark" alt="Ilyas Moutawwakil's stats" /> </p>
