@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently working on navigation data processing, temporal and spatio-temporal forecasting as part of my internship at <a href="https://sysnav.org" target="blank">Sysnav</a>.
 - 🌱 Learning everything I can learn about Data science (Statistics/Analytics/Machine Learning/Time Series Analysis/Computer Vision/NLP/Deep Learning..).
 - 👯 I’m actively looking for interesting open source Machine learning or python projects to contribute to. Glad to have contributed to <a href="https://github.com/alan-turing-institute/sktime">sktime</a> and <a href="https://github.com/wdm0006/pygeohash">pygeohash</a>.
-- 🤔 Most importantly, I'm looking for my next internship starting in February.
+- 🤔 Most importantly, I'm looking for my next research internship starting in February.
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=IlyasMoutawwakil&count_private=true&show_icons=true&theme=dark" alt="Ilyas Moutawwakil's stats" /> </p>
