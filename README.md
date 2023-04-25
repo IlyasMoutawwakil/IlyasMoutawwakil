@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Learning everything I can learn about Data science (Statistics/Analytics/Machine Learning/Time Series Analysis/Computer Vision/NLP/Deep Learning..).
-- 👯 I’m actively looking for interesting open source Machine learning or python projects to contribute to. Glad to have contributed to <a href="https://github.com/alan-turing-institute/sktime">sktime</a> and <a href="https://github.com/wdm0006/pygeohash">pygeohash</a>.
+- 🤗 Machine Learning Intern at @HuggingFace. Working on benchmarking state of the art transformers on cutting edge AI accelerators.
+- 👯 I’m actively looking for interesting open source Machine Learning / Deep Learning projects I can contribute to.
 - 🤔 Most importantly, I'm looking for my next research internship starting in mid-April so if you have any interesting offers, don't hold back.
 
 <p align="center"> 
